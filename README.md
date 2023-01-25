@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yenda09
-- 👀 I’m a Frontend Development Student
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m a Junior Frontend Developer
+- 🌱 I’m currently learning HTML, CSS, Javascript and Angular
 - 📫 yeinsdavid09@gmail.com / @yeinsdavid9 on twitter
 
 <!---
